@@ -7,7 +7,7 @@
     "description": "Feito para o RPG Olthin!",
     "action": {
         "title": "Abrir",
-        "icon": "/teste-html/icon.svg",
+        "icon": "./icon.svg",
         "popover": "./index.html"
     }
 }
