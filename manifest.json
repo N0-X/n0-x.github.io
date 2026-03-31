@@ -1,15 +1,13 @@
 {
-    "name": "Olthin Tracker",
-    "version": "2.6.9",
+    "name": "Meu App",
+    "version": "1.0.0",
     "manifest_version": 1,
     "author": "Comedor de Batatas",
     "icon": "./logo.svg",
     "description": "Feito para o RPG Olthin!",
     "action": {
-        "title": "Olthin Tracker",
+        "title": "Abrir",
         "icon": "./icon.svg",
-        "popover": "./",
-        "height": 600,
-        "width": 400
+        "popover": "./index.html"
     }
 }
